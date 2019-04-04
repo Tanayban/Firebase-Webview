@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "640132369497",
+    "firebase_url": "https://fir-recyclerview-kotlin.firebaseio.com",
+    "project_id": "fir-recyclerview-kotlin",
+    "storage_bucket": "fir-recyclerview-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640132369497:android:db66c852e26b3763",
+        "android_client_info": {
+          "package_name": "com.codingjuction.demoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmOjr6v-dC03WzojGAJU1UoKTb1q0-u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640132369497-itprs4phosu7t5ricu4tira5jqfqdpkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640132369497:android:e0d55c13686d9ab3",
+        "android_client_info": {
+          "package_name": "com.codingjuction.firebaserecyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmOjr6v-dC03WzojGAJU1UoKTb1q0-u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640132369497-itprs4phosu7t5ricu4tira5jqfqdpkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
